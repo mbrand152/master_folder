@@ -27,13 +27,12 @@ AKA Vision Control. Allows space for collaboration where people can add to or al
 
 # FTP
 The way to get something that you've created up on the internet. 
-
 	youtube.com 
 	What is FTP (File Transfer Protocol) and how do I use it?
 
 
 					
-						# HOMEWORK #
+						# HOMEWORK
 			Check out the tutorials in W3 Schools 
 
 
