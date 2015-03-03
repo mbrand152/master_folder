@@ -32,8 +32,11 @@ The way to get something that you've created up on the internet.
 
 
 					
-						# HOMEWORK
-			Check out the tutorials in W3 Schools 
+# HOMEWORK
+Websites to check out:
+	W3Schools
+	codrops
+	codyhouse
 
 
 
