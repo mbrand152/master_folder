@@ -1,0 +1,36 @@
+Types of Selectors:
+
+>>COMBINATORS
+They are rules you can use to select more than one thing. For example, you can not just generally select all of the divs, but also specific elements within the div.
+There are four different combinators in CSS:
+		-<b>descendant selector</b>
+			div p {}
+		Picks all <p> elements inside the div
+
+		-<b>child selector</b>
+			div > p {}
+		Picks the all of the <p> directly inside the div
+
+		-<b>adjacent sibling selector</b>
+			div + p {}
+		Picks the <p> elements directly after the div
+
+		-<b>general sibling selector</b>
+			div ~ p {}
+ 		Picks all <p> elements that are siblings (just like the div selected) the div
+
+>>PSEUDO CLASS
+:thesethings
+They select things directly that are environmentally important. For example, hover, etc. or change something that is in a list of things.
+		- :hover {}
+		- :first-child {}
+		- :last-child {}
+		- :nth-child(4n) {}
+
+>>PSEUDO ELEMENTS
+:before    or    :after
+Can change things like lists to have a symbol in front of the word to create a style, rather than embed the image in html. 
+		www.fontello.com
+
+>>ATTRIBUTE SELECTORS
+It can target any attribute like href using [] directly instead of coming up with a new id or selector.
